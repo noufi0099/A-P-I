@@ -1,0 +1,21 @@
+Google Recaptcha
+
+https://www.google.com/recaptcha/admin/create , enter label,domain name, recaptcha type, project name and save it.
+
+recaptcha is of 2 types:Score based(v3) and challenge(v2)
+
+when Challege is selected then there are 2 more options:
+Im not a robot checkbox and invisible recaptcha badge 
+
+im not a robot checkbox is just validation using a checkbox 
+invisible recaptcha badge is selecting images from blocks based on the requirement
+
+score based is based on the scores that is obtained above or below a threshold value
+
+The reCAPTCHA script runs in the background and starts analyzing user behavior.
+It observes:
+Mouse movements, scrolling behavior, typing speed.
+Browser fingerprint (User-Agent, IP address, cookies, etc.).
+Past interactions with Google service
+
+according to this a score is generated and compared to threshold value
