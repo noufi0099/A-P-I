@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Google reCAPTCHA v3 Test</title>
+    <script src="https://www.google.com/recaptcha/api.js?render=6LfTye8qAAAAALhmCUadL_Swdrxp3-Z69GdQ9PIY"></script>
+</head>
+<body>
+    <form id="loginForm" action="2.php" method="POST">
+        <label for="username">Username:</label>
+        <input type="text" id="username" name="username" required>
+        <br><br>
+        <label for="password">Password:</label>
+        <input type="password" id="password" name="password" required>
+        <br><br>
+        <input type="hidden" name="g-recaptcha-response" id="g-recaptcha-response">
+        <button type="submit">Submit</button>
+    </form>
+    
+    <script>
+        grecaptcha.ready(function() {
+            grecaptcha.execute('6LfTye8qAAAAALhmCUadL_Swdrxp3-Z69GdQ9PIY', { action: 'login' }).then(function(token) {
+                document.getElementById('g-recaptcha-response').value = token;
+            });
+        });
+    </script>
+</body>
+</html>
