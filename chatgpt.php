@@ -1,6 +1,6 @@
 <?php
 // Replace with your OpenAI API key
-$api_key = "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";
+$api_key = "open api key";
 
 header("Access-Control-Allow-Origin: *"); // Allow requests from any origin
 header("Access-Control-Allow-Headers: Content-Type");
