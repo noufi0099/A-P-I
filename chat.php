@@ -2,9 +2,9 @@
 
 header("Content-Type: application/json");
 
-$google_api_key = "AIzaSyAiGUecmRp8HQHYmeJd5zux7sskeMa28Qs";
-$search_engine_id = "6409f969bb3064a2a";
-$openai_api_key = "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";
+$google_api_key = "google api key";
+$search_engine_id = "search engine id";
+$openai_api_key = "open api key";
 
 if (!isset($_GET['query'])) {
     echo json_encode(["error" => "Missing query parameter"]);
