@@ -1,0 +1,545 @@
+{
+  "kind": "customsearch#search",
+  "url": {
+    "type": "application/json",
+    "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+  },
+  "queries": {
+    "request": [
+      {
+        "title": "Google Custom Search - joobilant business and it solutions",
+        "totalResults": "80",
+        "searchTerms": "joobilant business and it solutions",
+        "count": 10,
+        "startIndex": 1,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "6409f969bb3064a2a"
+      }
+    ],
+    "nextPage": [
+      {
+        "title": "Google Custom Search - joobilant business and it solutions",
+        "totalResults": "80",
+        "searchTerms": "joobilant business and it solutions",
+        "count": 10,
+        "startIndex": 11,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "6409f969bb3064a2a"
+      }
+    ]
+  },
+  "context": {
+    "title": "test"
+  },
+  "searchInformation": {
+    "searchTime": 0.487004,
+    "formattedSearchTime": "0.49",
+    "totalResults": "80",
+    "formattedTotalResults": "80"
+  },
+  "spelling": {
+    "correctedQuery": "jubilant business and it solutions",
+    "htmlCorrectedQuery": "\u003cb\u003e\u003ci\u003ejubilant\u003c/i\u003e\u003c/b\u003e business and it solutions"
+  },
+  "items": [
+    {
+      "kind": "customsearch#result",
+      "title": "Helping Vtiger CRM Owners to Thrive their business growth by ...",
+      "htmlTitle": "Helping Vtiger CRM Owners to Thrive their \u003cb\u003ebusiness\u003c/b\u003e growth by ...",
+      "link": "https://www.joobilant.com/",
+      "displayLink": "www.joobilant.com",
+      "snippet": "Joobilant Business & IT Solutions LLP. 2nd Floor, KSUM. UL Cyber Park,. Kozhikode, Kerala. India – 673016. Email: hello@joobilant.com. Phone No: +91 70123 ...",
+      "htmlSnippet": "\u003cb\u003eJoobilant Business\u003c/b\u003e &amp; IT \u003cb\u003eSolutions\u003c/b\u003e LLP. 2nd Floor, KSUM. UL Cyber Park,. Kozhikode, Kerala. India – 673016. Email: hello@\u003cb\u003ejoobilant\u003c/b\u003e.com. Phone No: +91 70123&nbsp;...",
+      "formattedUrl": "https://www.joobilant.com/",
+      "htmlFormattedUrl": "https://www.\u003cb\u003ejoobilant\u003c/b\u003e.com/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRdas6pAoBLn0f5iF_dlMjrk1n2AZtOkLUFwG_W2RCEpmgghLSxCE0meI&s",
+            "width": "300",
+            "height": "168"
+          }
+        ],
+        "metatags": [
+          {
+            "og:type": "website",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "Helping Vtiger CRM Owners to Thrive their business growth by Enhancing CRM features - Joobilant - SuperCharging VtigerCRM",
+            "og:site_name": "Joobilant - SuperCharging VtigerCRM",
+            "og:title": "Helping Vtiger CRM Owners to Thrive their business growth by Enhancing CRM features - Joobilant - SuperCharging VtigerCRM",
+            "twitter:label1": "Written by",
+            "twitter:label2": "Time to read",
+            "og:updated_time": "2025-01-02T18:16:57+05:30",
+            "msapplication-tileimage": "https://i0.wp.com/www.joobilant.com/wp-content/uploads/2024/10/cropped-favicon-32x32-1.png?fit=270%2C270&ssl=1",
+            "og:description": "Helping Vtiger CRM Owners to Thrive their business growth by Enhancing CRM features",
+            "twitter:data1": "Bibin George",
+            "twitter:data2": "Less than a minute",
+            "viewport": "width=device-width, initial-scale=1",
+            "twitter:description": "Helping Vtiger CRM Owners to Thrive their business growth by Enhancing CRM features",
+            "og:locale": "en_US",
+            "og:url": "https://www.joobilant.com/"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://i0.wp.com/www.joobilant.com/wp-content/uploads/2024/10/Untitled-design-4.webp?fit=324%2C182&ssl=1"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Joobilant Business And IT solutions hiring Junior PHP Developer ...",
+      "htmlTitle": "\u003cb\u003eJoobilant Business And IT solutions\u003c/b\u003e hiring Junior PHP Developer ...",
+      "link": "https://www.glassdoor.com/job-listing/junior-php-developer-joobilant-business-and-it-solutions-JV_IC2868442_KO0,20_KE21,56.htm?jl=1009654163576",
+      "displayLink": "www.glassdoor.com",
+      "snippet": "Feb 28, 2025 ... We are located in KSUM, 2nd Floor, UL Cyber Park. What you'll be doing. Developing and customizing CRM solutions to enhance business automation ...",
+      "htmlSnippet": "Feb 28, 2025 \u003cb\u003e...\u003c/b\u003e We are located in KSUM, 2nd Floor, UL Cyber Park. What you&#39;ll be doing. Developing and customizing CRM \u003cb\u003esolutions\u003c/b\u003e to enhance \u003cb\u003ebusiness\u003c/b\u003e automation&nbsp;...",
+      "formattedUrl": "https://www.glassdoor.com/.../junior-php-developer-joobilant-business-and...",
+      "htmlFormattedUrl": "https://www.glassdoor.com/.../junior-php-developer-\u003cb\u003ejoobilant\u003c/b\u003e-\u003cb\u003ebusiness-and\u003c/b\u003e...",
+      "pagemap": {
+        "metatags": [
+          {
+            "og:type": "website",
+            "theme-color": "#0caa41",
+            "og:site_name": "Glassdoor",
+            "al:ios:app_name": "Glassdoor",
+            "og:title": "Joobilant Business And IT solutions hiring Junior PHP Developer Job in Calicut | Glassdoor",
+            "bingbot": "nocache",
+            "og:description": "Who we areProviding CRM Software extensions as a ready to use product to the global market. Our mission is to help the C... See this and similar jobs on Glassdoor",
+            "msapplication-navbutton-color": "#0caa41",
+            "al:ios:app_store_id": "589698942",
+            "referrer": "origin",
+            "next-head-count": "28",
+            "apple-mobile-web-app-status-bar-style": "#0caa41",
+            "viewport": "width=device-width, initial-scale=1.0",
+            "mobile-web-app-capable": "yes",
+            "og:url": "https://www.glassdoor.co.in/job-listing/junior-php-developer-joobilant-business-and-it-solutions-JV_IC2868442_KO0,20_KE21,56.htm?jl=1009654163576"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Contact Us - Joobilant - SuperCharging VtigerCRM",
+      "htmlTitle": "Contact Us - \u003cb\u003eJoobilant\u003c/b\u003e - SuperCharging VtigerCRM",
+      "link": "https://www.joobilant.com/contact-us/",
+      "displayLink": "www.joobilant.com",
+      "snippet": "Our Address. Joobilant Business & IT Solutions LLP. 2nd Floor, KSUM. UL Cyber Park,. Kozhikode, Kerala. India – 673016 ...",
+      "htmlSnippet": "Our Address. \u003cb\u003eJoobilant Business\u003c/b\u003e &amp; IT \u003cb\u003eSolutions\u003c/b\u003e LLP. 2nd Floor, KSUM. UL Cyber Park,. Kozhikode, Kerala. India – 673016&nbsp;...",
+      "formattedUrl": "https://www.joobilant.com/contact-us/",
+      "htmlFormattedUrl": "https://www.\u003cb\u003ejoobilant\u003c/b\u003e.com/contact-us/",
+      "pagemap": {
+        "metatags": [
+          {
+            "og:type": "article",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "Contact Us - Joobilant - SuperCharging VtigerCRM",
+            "og:site_name": "Joobilant - SuperCharging VtigerCRM",
+            "og:title": "Contact Us - Joobilant - SuperCharging VtigerCRM",
+            "twitter:label1": "Time to read",
+            "og:updated_time": "2025-02-24T11:15:30+05:30",
+            "msapplication-tileimage": "https://i0.wp.com/www.joobilant.com/wp-content/uploads/2024/10/cropped-favicon-32x32-1.png?fit=270%2C270&ssl=1",
+            "og:description": "Please feel free to contact us",
+            "twitter:data1": "Less than a minute",
+            "viewport": "width=device-width, initial-scale=1",
+            "twitter:description": "Please feel free to contact us",
+            "og:locale": "en_US",
+            "og:url": "https://www.joobilant.com/contact-us/"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Joobilant LLP | LinkedIn",
+      "htmlTitle": "\u003cb\u003eJoobilant\u003c/b\u003e LLP | LinkedIn",
+      "link": "https://www.linkedin.com/company/joobilant-llp?trk=similar-pages",
+      "displayLink": "www.linkedin.com",
+      "snippet": "Joobilant LLP | 8 followers on LinkedIn. SuperCharging Vtiger CRM. ... Business Consulting and Services. Quip Global - Web and Mobile Software ...",
+      "htmlSnippet": "\u003cb\u003eJoobilant\u003c/b\u003e LLP | 8 followers on LinkedIn. SuperCharging Vtiger CRM. ... \u003cb\u003eBusiness\u003c/b\u003e Consulting and Services. Quip Global - Web and Mobile Software&nbsp;...",
+      "formattedUrl": "https://www.linkedin.com/company/joobilant-llp?trk=similar-pages",
+      "htmlFormattedUrl": "https://www.linkedin.com/company/\u003cb\u003ejoobilant\u003c/b\u003e-llp?trk=similar-pages",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRIuYwM9of45Z_cKZgxcf-T-X6VXCjHd8ADTHYe9DHUrdL50WxZvMkgiIO&s",
+            "width": "200",
+            "height": "200"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://media.licdn.com/dms/image/v2/C510BAQGJofi9TvBXXw/company-logo_200_200/company-logo_200_200/0/1630583261686?e=2147483647&v=beta&t=3VMmLEBUxad4jkCRXESM2D0IY5WPJgQGU-iSdmh2b94",
+            "og:type": "article",
+            "twitter:card": "summary",
+            "twitter:title": "Joobilant LLP | LinkedIn",
+            "clientsideingraphs": "1",
+            "al:ios:app_name": "LinkedIn",
+            "linkedin:pagetag": "noncanonical_subdomain=control",
+            "og:title": "Joobilant LLP | LinkedIn",
+            "al:android:package": "com.linkedin.android",
+            "pagekey": "p_org_guest_company_overview",
+            "bingbot": "nocache",
+            "locale": "en_US",
+            "al:ios:url": "https://www.linkedin.com/company/joobilant-llp",
+            "og:description": "Joobilant LLP | 8 followers on LinkedIn. SuperCharging Vtiger CRM",
+            "al:ios:app_store_id": "288429040",
+            "twitter:image": "https://media.licdn.com/dms/image/v2/C510BAQGJofi9TvBXXw/company-logo_200_200/company-logo_200_200/0/1630583261686?e=2147483647&v=beta&t=3VMmLEBUxad4jkCRXESM2D0IY5WPJgQGU-iSdmh2b94",
+            "al:android:url": "https://www.linkedin.com/company/joobilant-llp",
+            "twitter:site": "@linkedin",
+            "viewport": "width=device-width, initial-scale=1.0",
+            "twitter:description": "Joobilant LLP | 8 followers on LinkedIn. SuperCharging Vtiger CRM",
+            "og:url": "https://www.linkedin.com/company/joobilant-llp",
+            "al:android:app_name": "LinkedIn"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://media.licdn.com/dms/image/v2/C510BAQGJofi9TvBXXw/company-logo_200_200/company-logo_200_200/0/1630583261686?e=2147483647&v=beta&t=3VMmLEBUxad4jkCRXESM2D0IY5WPJgQGU-iSdmh2b94"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Careers - Joobilant - SuperCharging VtigerCRM",
+      "htmlTitle": "Careers - \u003cb\u003eJoobilant\u003c/b\u003e - SuperCharging VtigerCRM",
+      "link": "https://www.joobilant.com/careers/",
+      "displayLink": "www.joobilant.com",
+      "snippet": "At Joobilant, we specialize in providing high-quality tailor made CRM solutions using the cutting edge technologies. Our solutions help businesses worldwide ...",
+      "htmlSnippet": "At \u003cb\u003eJoobilant\u003c/b\u003e, we specialize in providing high-quality tailor made CRM \u003cb\u003esolutions\u003c/b\u003e using the cutting edge \u003cb\u003etechnologies\u003c/b\u003e. Our \u003cb\u003esolutions\u003c/b\u003e help \u003cb\u003ebusinesses\u003c/b\u003e worldwide&nbsp;...",
+      "formattedUrl": "https://www.joobilant.com/careers/",
+      "htmlFormattedUrl": "https://www.\u003cb\u003ejoobilant\u003c/b\u003e.com/careers/",
+      "pagemap": {
+        "metatags": [
+          {
+            "og:type": "article",
+            "twitter:card": "summary_large_image",
+            "twitter:title": " Careers - Joobilant - SuperCharging VtigerCRM",
+            "og:site_name": "Joobilant - SuperCharging VtigerCRM",
+            "og:title": " Careers - Joobilant - SuperCharging VtigerCRM",
+            "twitter:label1": "Time to read",
+            "og:updated_time": "2025-01-09T10:19:38+05:30",
+            "msapplication-tileimage": "https://i0.wp.com/www.joobilant.com/wp-content/uploads/2024/10/cropped-favicon-32x32-1.png?fit=270%2C270&ssl=1",
+            "og:description": "At Joobilant, we specialize in providing high-quality tailor made CRM solutions using the cutting edge technologies. Our solutions help businesses worldwide",
+            "twitter:data1": "2 minutes",
+            "viewport": "width=device-width, initial-scale=1",
+            "twitter:description": "At Joobilant, we specialize in providing high-quality tailor made CRM solutions using the cutting edge technologies. Our solutions help businesses worldwide",
+            "og:locale": "en_US",
+            "og:url": "https://www.joobilant.com/careers/"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Principales Alternativas y Competidores de 10 Joobilant Business ...",
+      "htmlTitle": "Principales Alternativas y Competidores de 10 \u003cb\u003eJoobilant Business\u003c/b\u003e ...",
+      "link": "https://www.g2.com/es/products/joobilant-business-and-it-solutions-llp/competitors/alternatives",
+      "displayLink": "www.g2.com",
+      "snippet": "Las mejores alternativas a Joobilant Business and IT Solutions LLP son Magna5, 7 Layer Solutions, y DSP Explorer. Encuentra aplicaciones gratuitas y de pago ...",
+      "htmlSnippet": "Las mejores alternativas a \u003cb\u003eJoobilant Business and IT Solutions\u003c/b\u003e LLP son Magna5, 7 Layer Solutions, y DSP Explorer. Encuentra aplicaciones gratuitas y de pago&nbsp;...",
+      "formattedUrl": "https://www.g2.com/es/.../joobilant-business-and-it-solutions-llp/.../alternati...",
+      "htmlFormattedUrl": "https://www.g2.com/es/.../\u003cb\u003ejoobilant\u003c/b\u003e-\u003cb\u003ebusiness-and-it-solutions\u003c/b\u003e-llp/.../alternati...",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm_CDKUxkOSwCunwYk6-QJ4NIJ3vKRNy9mJI2SieLNWFVMwucLQOrwby9s&s",
+            "width": "307",
+            "height": "164"
+          }
+        ],
+        "organization": [
+          {
+            "name": "G2"
+          }
+        ],
+        "postaladdress": [
+          {
+            "addresslocality": "Chicago",
+            "postalcode": "60606",
+            "addressregion": "IL",
+            "streetaddress": "100 S Wacker Dr STE 600"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://www.g2.com/assets/alternatives_share-0688876aacc842c3211d864addcff9ba35c014fc03ac45824ec886bb18536ad9.jpg",
+            "og:type": "website",
+            "twitter:card": "summary",
+            "og:site_name": "G2",
+            "msvalidate.01": "78D210F3223F3CF585EB2436D17C6943",
+            "turbo-refresh-method": "replace",
+            "og:title": "Principales Alternativas y Competidores de 10 Joobilant Business and IT Solutions LLP en 2025 | G2",
+            "turbo-refresh-scroll": "preserve",
+            "csrf-param": "authenticity_token",
+            "og:description": "Las mejores alternativas a Joobilant Business and IT Solutions LLP son Magna5, 7 Layer Solutions, y DSP Explorer. Encuentra aplicaciones gratuitas y de pago de alto ranking similares a Joobilant Business and IT Solutions LLP para tus necesidades de Proveedores de Consultoría de Infraestructura de TI. Lee las últimas reseñas, detalles de precios y características.",
+            "twitter:creator": "@G2dotcom",
+            "twitter:image": "https://www.g2.com/assets/alternatives_share-0688876aacc842c3211d864addcff9ba35c014fc03ac45824ec886bb18536ad9.jpg",
+            "og:image:secure_url": "https://www.g2.com/assets/alternatives_share-0688876aacc842c3211d864addcff9ba35c014fc03ac45824ec886bb18536ad9.jpg",
+            "twitter:site": "@G2dotcom",
+            "viewport": "width=device-width, initial-scale=1",
+            "csrf-token": "jS1ICMkBvxDSfscma9PmsTq13lIu1tkCnKBLepApDy6Ea9ZTrvP_T2ek4jA5Nm7BcHFhrDThuNd0KQJxtrD78A",
+            "og:url": "https://www.g2.com/es/products/joobilant-business-and-it-solutions-llp/competitors/alternatives",
+            "turbo-prefetch": "false"
+          }
+        ],
+        "itemlist": [
+          {
+            "name": "10 Principales alternativas a Joobilant Business and IT Solutions LLP recientemente reseñadas por la comunidad de G2"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.g2.com/assets/alternatives_share-0688876aacc842c3211d864addcff9ba35c014fc03ac45824ec886bb18536ad9.jpg"
+          }
+        ],
+        "listitem": [
+          {
+            "item": "Inicio",
+            "name": "Inicio",
+            "position": "1"
+          },
+          {
+            "item": "Proveedores de Consultoría de Soluciones",
+            "name": "Proveedores de Consultoría de Soluciones",
+            "position": "2"
+          },
+          {
+            "item": "Proveedores de Consultoría de Infraestructura de TI",
+            "name": "Proveedores de Consultoría de Infraestructura de TI",
+            "position": "3"
+          },
+          {
+            "item": "Joobilant Business and IT Solutions LLP",
+            "name": "Joobilant Business and IT Solutions LLP",
+            "position": "4"
+          },
+          {
+            "item": "Alternativas de Joobilant Business and IT Solutions LLP",
+            "name": "Alternativas de Joobilant Business and IT Solutions LLP",
+            "position": "5"
+          },
+          {
+            "name": "Magna5",
+            "position": "1",
+            "url": "https://www.g2.com/es/products/magna5/reviews"
+          },
+          {
+            "name": "7 Layer Solutions",
+            "position": "2",
+            "url": "https://www.g2.com/es/products/7-layer-solutions-inc-7-layer-solutions/reviews"
+          },
+          {
+            "name": "DSP Explorer",
+            "position": "3",
+            "url": "https://www.g2.com/es/products/dsp-explorer/reviews"
+          },
+          {
+            "name": "Cortavo",
+            "position": "4",
+            "url": "https://www.g2.com/es/products/cortavo/reviews"
+          },
+          {
+            "name": "Cognizant",
+            "position": "5",
+            "url": "https://www.g2.com/es/products/cognizant/reviews"
+          },
+          {
+            "name": "Edvantis",
+            "position": "6",
+            "url": "https://www.g2.com/es/products/edvantis/reviews"
+          },
+          {
+            "name": "OneNeck IT Solutions",
+            "position": "7",
+            "url": "https://www.g2.com/es/products/oneneck-it-solutions/reviews"
+          },
+          {
+            "name": "HP Enterprise Consulting",
+            "position": "8",
+            "url": "https://www.g2.com/es/products/hp-enterprise-consulting/reviews"
+          },
+          {
+            "name": "Capgemini Services",
+            "position": "9",
+            "url": "https://www.g2.com/es/products/capgemini-services/reviews"
+          },
+          {
+            "name": "IBM Garage",
+            "position": "10",
+            "url": "https://www.g2.com/es/products/ibm-garage/reviews"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Privacy Policy - Joobilant - SuperCharging VtigerCRM",
+      "htmlTitle": "Privacy Policy - \u003cb\u003eJoobilant\u003c/b\u003e - SuperCharging VtigerCRM",
+      "link": "https://www.joobilant.com/privacy-policy/",
+      "displayLink": "www.joobilant.com",
+      "snippet": "This document is between Joobilant Business & IT Solutions LLP, acting as the Data Controller, and you, the customer. Data Collection. Via Vtiger extensions: No ...",
+      "htmlSnippet": "This document is between \u003cb\u003eJoobilant Business\u003c/b\u003e &amp; IT \u003cb\u003eSolutions\u003c/b\u003e LLP, acting as the Data Controller, and you, the customer. Data Collection. Via Vtiger extensions: No&nbsp;...",
+      "formattedUrl": "https://www.joobilant.com/privacy-policy/",
+      "htmlFormattedUrl": "https://www.\u003cb\u003ejoobilant\u003c/b\u003e.com/privacy-policy/",
+      "pagemap": {
+        "metatags": [
+          {
+            "og:type": "article",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "Privacy Policy - Joobilant - SuperCharging VtigerCRM",
+            "og:site_name": "Joobilant - SuperCharging VtigerCRM",
+            "og:title": "Privacy Policy - Joobilant - SuperCharging VtigerCRM",
+            "twitter:label1": "Time to read",
+            "og:updated_time": "2024-10-23T11:29:41+05:30",
+            "msapplication-tileimage": "https://i0.wp.com/www.joobilant.com/wp-content/uploads/2024/10/cropped-favicon-32x32-1.png?fit=270%2C270&ssl=1",
+            "og:description": "We (https://www.joobilant.com/) prioritize your privacy; thus, safeguarding your personal data is of utmost importance to us.",
+            "twitter:data1": "5 minutes",
+            "viewport": "width=device-width, initial-scale=1",
+            "twitter:description": "We (https://www.joobilant.com/) prioritize your privacy; thus, safeguarding your personal data is of utmost importance to us.",
+            "og:locale": "en_US",
+            "og:url": "https://www.joobilant.com/privacy-policy/"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Bibin George, VtigerCRM Expert - CEO - Joobilant Global | LinkedIn",
+      "htmlTitle": "Bibin George, VtigerCRM Expert - CEO - \u003cb\u003eJoobilant\u003c/b\u003e Global | LinkedIn",
+      "link": "https://in.linkedin.com/in/bibin-george-vtigercrm-expert-279aa2bb",
+      "displayLink": "in.linkedin.com",
+      "snippet": "Helping Businesses to get the most out of VtigerCRM · Expert level Vtiger CRM Consultant / Developer with 8+ years great industry experience.",
+      "htmlSnippet": "Helping \u003cb\u003eBusinesses\u003c/b\u003e to get the most out of VtigerCRM · Expert level Vtiger CRM Consultant / Developer with 8+ years great industry experience.",
+      "formattedUrl": "https://in.linkedin.com/in/bibin-george-vtigercrm-expert-279aa2bb",
+      "htmlFormattedUrl": "https://in.linkedin.com/in/bibin-george-vtigercrm-expert-279aa2bb",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB8pd-eFX_udXqjwosV363JV5oqPYh1noUyQUgZls27txan8IGfRkAtQzI&s",
+            "width": "200",
+            "height": "200"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://media.licdn.com/dms/image/v2/C5103AQGrGlaHv-wdCw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1545025045937?e=2147483647&v=beta&t=mS2TQFduj-bOpSwiZFELUAt9vGJ8xx0ztYrEbAXFG2s",
+            "twitter:card": "summary",
+            "linkedin:pagetag": "openToProvider",
+            "platform-worker": "https://static.licdn.com/aero-v1/sc/h/7nirg34a8ey4y2l4rw7xgwxx4",
+            "al:android:package": "com.linkedin.android",
+            "bingbot": "nocache",
+            "locale": "en_US",
+            "al:ios:url": "https://in.linkedin.com/in/bibin-george-vtigercrm-expert-279aa2bb",
+            "og:description": "Helping Businesses to get the most out of VtigerCRM · Expert level Vtiger CRM Consultant / Developer with 8+ years great industry experience.\nImplemented  / Managed 85+ CRMs across various business domains around the world · Experience: Joobilant Global · Education: Indian Institute of Management, Kozhikode · Location: Kerala · 500+ connections on LinkedIn. View Bibin George, VtigerCRM Expert’s profile on LinkedIn, a professional community of 1 billion members.",
+            "al:ios:app_store_id": "288429040",
+            "platform": "https://static.licdn.com/aero-v1/sc/h/24pd8irys08mye94d13g6q5xa",
+            "twitter:image": "https://media.licdn.com/dms/image/v2/C5103AQGrGlaHv-wdCw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1545025045937?e=2147483647&v=beta&t=mS2TQFduj-bOpSwiZFELUAt9vGJ8xx0ztYrEbAXFG2s",
+            "profile:last_name": "VtigerCRM Expert",
+            "twitter:site": "@Linkedin",
+            "litmsprofilename": "public-profile-frontend",
+            "profile:first_name": "Bibin George,",
+            "og:type": "profile",
+            "twitter:title": "Bibin George, VtigerCRM Expert - CEO - Joobilant Global | LinkedIn",
+            "al:ios:app_name": "LinkedIn",
+            "og:title": "Bibin George, VtigerCRM Expert - CEO - Joobilant Global | LinkedIn",
+            "pagekey": "public_profile_v3_mobile",
+            "al:android:url": "https://in.linkedin.com/in/bibin-george-vtigercrm-expert-279aa2bb",
+            "viewport": "width=device-width, initial-scale=1.0",
+            "twitter:description": "Helping Businesses to get the most out of VtigerCRM · Expert level Vtiger CRM Consultant / Developer with 8+ years great industry experience.\nImplemented  / Managed 85+ CRMs across various business domains around the world · Experience: Joobilant Global · Education: Indian Institute of Management, Kozhikode · Location: Kerala · 500+ connections on LinkedIn. View Bibin George, VtigerCRM Expert’s profile on LinkedIn, a professional community of 1 billion members.",
+            "ubba": "https://static.licdn.com/aero-v1/sc/h/b6f8yzluzut0jjjk6d3fqekmn",
+            "og:url": "https://in.linkedin.com/in/bibin-george-vtigercrm-expert-279aa2bb",
+            "al:android:app_name": "LinkedIn"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://media.licdn.com/dms/image/v2/C5103AQGrGlaHv-wdCw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1545025045937?e=2147483647&v=beta&t=mS2TQFduj-bOpSwiZFELUAt9vGJ8xx0ztYrEbAXFG2s"
+          }
+        ],
+        "Person": [
+          {}
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Optima Forma LDA | The Org",
+      "htmlTitle": "Optima Forma LDA | The Org",
+      "link": "https://theorg.com/org/optima-forma-lda",
+      "displayLink": "theorg.com",
+      "snippet": "Similar companies. NOS logo. NOS. 9 followers. Joobilant Business and IT Solutions LLP logo. Joobilant Business and IT Solutions LLP. 2 followers. PrimeSites ...",
+      "htmlSnippet": "Similar companies. NOS logo. NOS. 9 followers. \u003cb\u003eJoobilant Business and IT Solutions\u003c/b\u003e LLP logo. \u003cb\u003eJoobilant Business and IT Solutions\u003c/b\u003e LLP. 2 followers. PrimeSites&nbsp;...",
+      "formattedUrl": "https://theorg.com/org/optima-forma-lda",
+      "htmlFormattedUrl": "https://theorg.com/org/optima-forma-lda",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX6Djagy-ChZRVuXQ_nAqXxiHw1WYxWdOoLGuXK_E3bfqHTwuSMfPQyRhE&s",
+            "width": "225",
+            "height": "225"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://cdn.theorg.com/fb63aed5-a1d9-475c-8ad2-a52339a67fb4_small.jpg",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "Optima Forma LDA | The Org",
+            "og:type": "website",
+            "og:image:width": "2048",
+            "og:site_name": "THE ORG",
+            "twitter:url": "https://theorg.com/org/optima-forma-lda",
+            "og:title": "Optima Forma LDA | The Org",
+            "og:image:height": "1200",
+            "twitter:creator": "@theorghq",
+            "og:description": "Find Great IT Talent For Your Team\n\nWe'll make sure they're the right fit for you,\nwith exposure & support in the right areas.",
+            "twitter:image": "https://cdn.theorg.com/fb63aed5-a1d9-475c-8ad2-a52339a67fb4_small.jpg",
+            "next-head-count": "45",
+            "fb:app_id": "330925187371615",
+            "apple-mobile-web-app-status-bar-style": "default",
+            "twitter:site": "@theorghq",
+            "viewport": "width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no",
+            "apple-mobile-web-app-capable": "yes",
+            "twitter:description": "Find Great IT Talent For Your Team\n\nWe'll make sure they're the right fit for you,\nwith exposure & support in the right areas.",
+            "mobile-web-app-capable": "yes",
+            "og:url": "https://theorg.com/org/optima-forma-lda"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://cdn.theorg.com/fb63aed5-a1d9-475c-8ad2-a52339a67fb4_small.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "7 Ul Cyber Park, IT Support Job Jobs and Vacancies in Calicut ...",
+      "htmlTitle": "7 Ul Cyber Park, IT Support Job Jobs and Vacancies in Calicut ...",
+      "link": "https://in.indeed.com/q-ul-cyber-park,-it-support-job-l-calicut,-kerala-jobs.html",
+      "displayLink": "in.indeed.com",
+      "snippet": "Junior PHP Developer. Joobilant Business And IT solutions. Calicut, Kerala. EmployerActive 4 days ago. Bachelor's degree in Computer Science or a related field ...",
+      "htmlSnippet": "Junior PHP Developer. \u003cb\u003eJoobilant Business And IT solutions\u003c/b\u003e. Calicut, Kerala. EmployerActive 4 days ago. Bachelor&#39;s degree in Computer Science or a related field&nbsp;...",
+      "formattedUrl": "https://in.indeed.com/q-ul-cyber-park,-it-support-job-l-calicut,-kerala-jobs....",
+      "htmlFormattedUrl": "https://in.indeed.com/q-ul-cyber-park,-it-support-job-l-calicut,-kerala-jobs....",
+      "pagemap": {
+        "metatags": [
+          {
+            "referrer": "origin-when-cross-origin",
+            "viewport": "width=device-width,initial-scale=1.0",
+            "format-detection": "telephone=no"
+          }
+        ]
+      }
+    }
+  ]
+}
+
+
+

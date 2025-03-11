@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ChatGPT PHP Integration</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+        }
+        .chat-container {
+            width: 50%;
+            margin: auto;
+            border: 1px solid #ddd;
+            padding: 20px;
+            border-radius: 10px;
+            background-color: #f9f9f9;
+        }
+        .chat-box {
+            height: 300px;
+            overflow-y: auto;
+            border: 1px solid #ccc;
+            padding: 10px;
+            background-color: #fff;
+            text-align: left;
+        }
+        .user-message {
+            color: blue;
+            font-weight: bold;
+        }
+        .bot-message {
+            color: green;
+            font-weight: bold;
+        }
+        input[type="text"] {
+            width: 80%;
+            padding: 10px;
+            margin-top: 10px;
+        }
+        button {
+            padding: 10px 15px;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="chat-container">
+        <div class="chat-box" id="chatBox">
+            <!-- Chat messages will appear here -->
+        </div>
+        <input type="text" id="userInput" placeholder="Type your message..." />
+        <button onclick="sendMessage()">Send</button>
+    </div>
+
+    <script>
+        async function sendMessage() {
+            const userInput = document.getElementById("userInput");
+            const chatBox = document.getElementById("chatBox");
+            const message = userInput.value.trim();
+            
+            if (!message) return;
+
+            // Add user's message to chat
+            chatBox.innerHTML += `<p class="user-message">${message}</p>`;
+            userInput.value = "";
+
+            try {
+                const response = await fetch("chatgpt.php", {
+                    method: "POST",
+                    headers: { "Content-Type": "application/json" },
+                    body: JSON.stringify({ message })
+                });
+
+                const data = await response.json();
+                console.log("API Response:", data);
+
+                // Extract and display bot response
+                if (data.response && data.response.choices && data.response.choices[0]) {
+                    const botReply = data.response.choices[0].message.content;
+                    chatBox.innerHTML += `<p class="bot-message">${botReply}</p>`;
+                } else {
+                    chatBox.innerHTML += `<p class="bot-message">Unexpected response format</p>`;
+                }
+            } catch (error) {
+                console.error("Error:", error);
+                chatBox.innerHTML += `<p class="bot-message">Error fetching response</p>`;
+            }
+
+            // Scroll to bottom after new message
+            chatBox.scrollTop = chatBox.scrollHeight;
+        }
+    </script>
+
+</body>
+</html>
